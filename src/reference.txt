@@ -1,0 +1,5 @@
+1.https://jsonplaceholder.typicode.com  base url
+2.post : https://62a59821b9b74f766a3c09a4.mockapi.io/crud-youtube
+3.https://62a59821b9b74f766a3c09a4.mockapi.io/crud-youtube/${id} delete
+4.https://62a59821b9b74f766a3c09a4.mockapi.io/crud-youtube    get
+https://62a59821b9b74f766a3c09a4.mockapi.io/crud-youtube/${id}
